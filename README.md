@@ -28,3 +28,17 @@ Solutions for these exercises can be found in this repo on the 'solutions' branc
 ## A quick note!
 
 The exercise `generator-exercise` is not actually an exercise; it is a script that generates exercises. It was created to help efficiently write these exercises.
+
+[X] 01 helloWorld
+[x] 02 repeatString
+[X] 03 reverseString
+[X] 04 removeFromArray
+[] 05 SumALL
+[] 06 leapYears
+[] 07 tempConversion
+[] 08 calculator
+[] 09 palindromes
+[] 10 fibonacci
+[] 11 getTheTitles
+[] 12 findTheOldest
+[] 13 caesar
