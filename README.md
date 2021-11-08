@@ -34,7 +34,7 @@ The exercise `generator-exercise` is not actually an exercise; it is a script th
 [X] 03 reverseString
 [X] 04 removeFromArray
 [X] 05 SumALL
-[] 06 leapYears
+[X] 06 leapYears
 [] 07 tempConversion
 [] 08 calculator
 [] 09 palindromes
