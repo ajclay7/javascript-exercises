@@ -7,7 +7,9 @@ There will eventually be a suggested order of completion, but at this time since
 3. Reverse String
 
 ## How To Use These Exercises
+
 Before you start you should have a few things installed on your machine:
+
 1. **NPM**. To check if you have NPM installed, type `npm --version` in your terminal. If you get back `Command 'npm' not found, but can be installed with:`, do NOT follow the instructions in the terminal to install with `apt-get`. (This causes permission issues.) Instead, install Node with NVM by following the instructions [here](https://github.com/TheOdinProject/curriculum/blob/master/foundations/installations/installing_node.md).
 2. **A copy of this repository**. Copies of repositories on your machine are called clones. If you need help cloning, you can learn how [here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
 3. **Jest**. After cloning this repository to your local machine, go into the newly created directory (`cd javascript-exercises`) and run `npm install`. This will install Jest and set up the testing platform based on our preconfigured settings.
@@ -19,6 +21,7 @@ Each exercise includes 3 files: a markdown file with a description of the task, 
 The first exercise, `helloWorld`, will walk you through the process in-depth.
 
 ## Debugging
+
 To debug functions, you can run the tests in the Visual Studio Code debugger terminal. You can open this by clicking the "Run and Debug" icon on the left or pressing `ctrl + shift + D`, then clicking JavaScript Debug Terminal. You will be able to set breakpoints as you would in the Chrome DevTools debugger. You can run `npm test exerciseName.spec.js` to then execute your code up until your breakpoint and step through your code as necessary. **NOTE**: To take advantage of the debugger, you **MUST** run the script in the debugger terminal, not the bash or zsh terminal.
 
 ## Solutions
@@ -35,7 +38,7 @@ The exercise `generator-exercise` is not actually an exercise; it is a script th
 [X] 04 removeFromArray
 [X] 05 SumALL
 [X] 06 leapYears
-[] 07 tempConversion
+[X] 07 tempConversion
 [] 08 calculator
 [] 09 palindromes
 [] 10 fibonacci
