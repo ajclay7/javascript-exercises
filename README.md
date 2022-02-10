@@ -40,7 +40,7 @@ The exercise `generator-exercise` is not actually an exercise; it is a script th
 [X] 06 leapYears
 [X] 07 tempConversion
 [X] 08 calculator
-[] 09 palindromes
+[X] 09 palindromes
 [] 10 fibonacci
 [] 11 getTheTitles
 [] 12 findTheOldest
